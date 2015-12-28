@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kobe/ViewController.swift"
+            timestampString = "472814691.676135"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kobe.ViewController.__deallocating_deinit"
+                  moduleName = "Kobe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Home/Desktop/Projects/Kobe/Kobe/ViewController.swift"
+                  timestampString = "472817175.390957"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kobe.ViewController.init (Kobe.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Kobe.ViewController"
+                  moduleName = "Kobe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Home/Desktop/Projects/Kobe/Kobe/ViewController.swift"
+                  timestampString = "472817175.394964"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kobe.ViewController.init (Kobe.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Kobe.ViewController&gt;"
+                  moduleName = "Kobe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Home/Desktop/Projects/Kobe/Kobe/ViewController.swift"
+                  timestampString = "472817175.395073"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x104b75c1c">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kobe.ViewController.init (Kobe.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Kobe.ViewController&gt;"
+                  moduleName = "Kobe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Home/Desktop/Projects/Kobe/Kobe/ViewController.swift"
+                  timestampString = "472815832.339345"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

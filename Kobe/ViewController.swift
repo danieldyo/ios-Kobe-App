@@ -10,8 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var Button: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
+        Button.layer.cornerRadius = 2.0
         // Do any additional setup after loading the view, typically from a nib.
     }
 
