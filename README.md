@@ -1,3 +1,3 @@
 # ios-Kobe-App
 
-Simple App that displays a list of Kobe's achievements 
+App that displays Kobe Bryant's achievements using buttons and segues along with appropriate backgrounds and images.
